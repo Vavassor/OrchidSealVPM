@@ -13,5 +13,13 @@
     "text": "View on GitHub"
   },
   "bannerUrl": "banner.png",
-  "githubRepos": ["Vavassor/kp-localization", "Vavassor/OspMinimalShaders", "Vavassor/ParaDraw"]
+  "githubRepos": ["Vavassor/kp-localization", "Vavassor/OspMinimalShaders"],
+  "packages": [
+    {
+      "id": "com.orchidseal.paradraw",
+      "releases": [
+        "https://github.com/Vavassor/ParaDraw/releases/download/v0.2.0/com.orchidseal.paradraw-0.2.0.zip"
+      ]
+    }
+  ]
 }
