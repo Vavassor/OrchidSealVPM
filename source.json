@@ -18,6 +18,7 @@
     {
       "id": "com.orchidseal.paradraw",
       "releases": [
+        "https://github.com/Vavassor/ParaDraw/releases/download/v0.5.0/com.orchidseal.paradraw-0.5.0.zip",
         "https://github.com/Vavassor/ParaDraw/releases/download/v0.4.0/com.orchidseal.paradraw-0.4.0.zip",
         "https://github.com/Vavassor/ParaDraw/releases/download/v0.3.0/com.orchidseal.paradraw-0.3.0.zip"
       ]
