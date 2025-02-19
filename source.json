@@ -13,7 +13,7 @@
     "text": "View on GitHub"
   },
   "bannerUrl": "banner.png",
-  "githubRepos": ["Vavassor/kp-localization", "Vavassor/OspMinimalShaders"],
+  "githubRepos": ["Vavassor/kp-localization", "Vavassor/OspMinimalShaders", "Vavassor/OSPBillboard"],
   "packages": [
     {
       "id": "com.orchidseal.paradraw",
