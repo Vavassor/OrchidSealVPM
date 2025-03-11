@@ -30,7 +30,8 @@
       "id": "com.orchidseal.billboard",
       "releases": [
         "https://github.com/Vavassor/OSPBillboard/releases/download/v0.1.0/com.orchidseal.billboard-0.1.0.zip",
-        "https://github.com/Vavassor/OSPBillboard/releases/download/v0.2.0/com.orchidseal.billboard-0.2.0.zip"
+        "https://github.com/Vavassor/OSPBillboard/releases/download/v0.2.0/com.orchidseal.billboard-0.2.0.zip",
+        "https://github.com/Vavassor/OSPBillboard/releases/download/v0.3.0/com.orchidseal.billboard-0.3.0.zip"
       ]
     }
   ]
